@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FizzBuzz
+comment0.text=\r\n\ FizzBuzz\ code\ that\ illustrates\ the\ fizzbuzz\ game\ that\ children\ play\r\n\ iterates\ through\ number\ from\ 1\ to\ the\ limit,\ \r\n\ if\ the\ numbers\ are\ divisible\ by\ 3,\ fizz\ and\ if\ it\ is\ divisible\ by\ 5\ buzz\ is\ called.\r\n\r\n\ @author\ Alvin\ Ng\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=FizzBuzz()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FizzBuzz\r\n
+comment2.params=limit
+comment2.target=void\ showFizzBuzz(int)
+comment2.text=\r\n\ runs\ the\ actual\ fizzbuzz\r\n\ @param\ integer\ limit\ -\ how\ far\ the\ count\ should\ go\r\n\ @return\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
